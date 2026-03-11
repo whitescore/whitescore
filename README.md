@@ -1,4 +1,11 @@
-## Hi there 👋
+
+
+<h2>
+  <p align="center">
+    Hello ✋ World
+  </p>
+</h2>
+
 
 <!--
 **whitescore/whitescore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
